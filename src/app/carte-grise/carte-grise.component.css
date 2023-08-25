@@ -8111,7 +8111,27 @@
     font-weight: 400;
     font-family: "Poppins", Arial, sans-serif;
     color: #000; }
+
+  .position  {
+                font: 14px 'amiri';
+                color: #000;
+                padding: 3px 15px;
+                border-radius: .5rem !important;
+            }
   
+  .in  {
+              background-color: green;
+
+          }
+    
+  .out {
+            background-color: red;
+
+        }
+  .fc {
+          background-color: yellow;
+
+      }
   
   
   .ftco-section {
