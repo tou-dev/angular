@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'amiri';
+    src: url('assets/fonts/amiri/Amiri-Bold.ttf');
+  }
+:root {
+background-color: #3b5998;
+direction: rtl;
+}
